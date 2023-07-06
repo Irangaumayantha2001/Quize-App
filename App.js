@@ -4,11 +4,15 @@ import Home from './screens/Home';
 import Quiz from './screens/Quiz';
 import Resault from './screens/Resault';
 
+
+
+
 export default function App() {
 
   return (
     <View style={styles.container}>
-      <Home/>
+      {/*<Home/>*/}
+      <Quiz/>
     </View>
   );
 }
