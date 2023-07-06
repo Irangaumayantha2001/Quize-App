@@ -10,8 +10,7 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.text}>Hello</Text>
       <Home/>
-      <Quiz/>
-      <Resault/>
+      
     </View>
   );
 }
