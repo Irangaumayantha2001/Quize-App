@@ -1,7 +1,14 @@
+
+import { StyleSheet, Text, View } from 'react-native';
+
+
 const Title = () => {
     return (
         <View>
-        <Text> This is the Home</Text>
+        <Text> Quiz</Text>
+        <View>
+            
+        </View>
        </View>
     );
 }

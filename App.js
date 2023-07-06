@@ -15,7 +15,7 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-   paddingTop:10,
-   paddingHorizontal:16,
+   paddingTop:28,
+   paddingHorizontal:14,
   },
 });
