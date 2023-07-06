@@ -8,9 +8,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hello</Text>
       <Home/>
-      
     </View>
   );
 }
@@ -20,8 +18,4 @@ const styles = StyleSheet.create({
    paddingTop:10,
    paddingHorizontal:16,
   },
-  text:{
-    color:"blue",
-  }
- 
 });
